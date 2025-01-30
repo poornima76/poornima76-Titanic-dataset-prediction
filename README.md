@@ -31,7 +31,7 @@ The Survived column is the target.
 The models are evaluated based on accuracy, precision, recall and F1 scores.  
 
 ### Logistic Regression:   
-<img src="metrics/metrics_logistic_regression.png" width="500" style="vertical-align:middle;margin:0px 50px">  
+<img src="Metrics/metrics_logistic_regression.png" width="500" style="vertical-align:middle;margin:0px 50px">  
 <p>  </p>   
    
     Precision: 0.7714 
@@ -39,7 +39,7 @@ The models are evaluated based on accuracy, precision, recall and F1 scores.
     F1 Score: 0.7769
 
 ### Random Forest:   
-<img src="metrics/metrics_random_forest.png" width="500" style="vertical-align:middle;margin:0px 50px">  
+<img src="Metrics/metrics_random_forest.png" width="500" style="vertical-align:middle;margin:0px 50px">  
 <p>  </p>   
    
     Precision: 0.8867 
@@ -47,7 +47,7 @@ The models are evaluated based on accuracy, precision, recall and F1 scores.
     F1 Score: 0.7704
 
 ### Neural Network:   
-<img src="metrics/metrics_NN.png" width="500" style="vertical-align:middle;margin:0px 50px">  
+<img src="Metrics/metrics_NN.png" width="500" style="vertical-align:middle;margin:0px 50px">  
 <p>  </p>
    
     Precision: 0.8475 
